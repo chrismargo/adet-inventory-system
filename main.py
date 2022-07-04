@@ -20,11 +20,13 @@ while True:
     print("[0] Exit")
     user_choice = int(input("Choice: "))
 
-    if user_choice is 1:
+    if user_choice == 1:
         add_to_list()    
     elif user_choice == 2:
         edit_element_in_list()
     elif user_choice == 3:
         delete_element_in_list()
+    elif user_choice == 0:
+        break
     else:
         print("\nInvalid input. Try again!")
