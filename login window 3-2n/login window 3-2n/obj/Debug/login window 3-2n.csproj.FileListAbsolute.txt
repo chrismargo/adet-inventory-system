@@ -1,0 +1,22 @@
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\bin\Debug\login window 3-2n.exe.config
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\bin\Debug\login window 3-2n.exe
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\bin\Debug\login window 3-2n.pdb
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n.csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n.csproj.SuggestedBindingRedirects.cache
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\MainWindow.g.cs
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\App.g.cs
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n_MarkupCompile.cache
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n_MarkupCompile.lref
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\MainWindow.baml
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n.g.resources
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login_window_3_2n.Properties.Resources.resources
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n.csproj.GenerateResource.cache
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n.exe
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n.pdb
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\bin\Debug\MaterialDesignColors.dll
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\bin\Debug\MaterialDesignColors.pdb
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\my pc\source\repos\login window 3-2n\login window 3-2n\obj\Debug\login window 3-2n.csproj.CopyComplete
