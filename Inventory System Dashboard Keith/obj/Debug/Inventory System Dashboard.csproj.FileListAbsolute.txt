@@ -1,0 +1,11 @@
+C:\Users\kabon\source\repos\Inventory System Dashboard\bin\Debug\Inventory System Dashboard.exe.config
+C:\Users\kabon\source\repos\Inventory System Dashboard\bin\Debug\Inventory System Dashboard.exe
+C:\Users\kabon\source\repos\Inventory System Dashboard\bin\Debug\Inventory System Dashboard.pdb
+C:\Users\kabon\source\repos\Inventory System Dashboard\obj\Debug\Inventory System Dashboard.csproj.AssemblyReference.cache
+C:\Users\kabon\source\repos\Inventory System Dashboard\obj\Debug\Inventory System Dashboard.csproj.SuggestedBindingRedirects.cache
+C:\Users\kabon\source\repos\Inventory System Dashboard\obj\Debug\Inventory_System_Dashboard.FormMainMenu.resources
+C:\Users\kabon\source\repos\Inventory System Dashboard\obj\Debug\Inventory_System_Dashboard.Properties.Resources.resources
+C:\Users\kabon\source\repos\Inventory System Dashboard\obj\Debug\Inventory System Dashboard.csproj.GenerateResource.cache
+C:\Users\kabon\source\repos\Inventory System Dashboard\obj\Debug\Inventory System Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\kabon\source\repos\Inventory System Dashboard\obj\Debug\Inventory System Dashboard.exe
+C:\Users\kabon\source\repos\Inventory System Dashboard\obj\Debug\Inventory System Dashboard.pdb
