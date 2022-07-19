@@ -1,0 +1,54 @@
+C:\Users\tom david\source\repos\dashboard\dashboard\bin\Debug\net6.0-windows\dashboard.exe
+C:\Users\tom david\source\repos\dashboard\dashboard\bin\Debug\net6.0-windows\dashboard.deps.json
+C:\Users\tom david\source\repos\dashboard\dashboard\bin\Debug\net6.0-windows\dashboard.runtimeconfig.json
+C:\Users\tom david\source\repos\dashboard\dashboard\bin\Debug\net6.0-windows\dashboard.dll
+C:\Users\tom david\source\repos\dashboard\dashboard\bin\Debug\net6.0-windows\dashboard.pdb
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.csproj.AssemblyReference.cache
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.Form1.resources
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.Properties.Resources.resources
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.csproj.GenerateResource.cache
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.AssemblyInfoInputs.cache
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.AssemblyInfo.cs
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.dll
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\refint\dashboard.dll
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.pdb
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\dashboard.genruntimeconfig.cache
+C:\Users\tom david\source\repos\dashboard\dashboard\obj\Debug\net6.0-windows\ref\dashboard.dll
+C:\Users\my pc\source\repos\dashboard 3-2n\bin\Debug\net6.0-windows\dashboard.exe
+C:\Users\my pc\source\repos\dashboard 3-2n\bin\Debug\net6.0-windows\dashboard.deps.json
+C:\Users\my pc\source\repos\dashboard 3-2n\bin\Debug\net6.0-windows\dashboard.runtimeconfig.json
+C:\Users\my pc\source\repos\dashboard 3-2n\bin\Debug\net6.0-windows\dashboard.dll
+C:\Users\my pc\source\repos\dashboard 3-2n\bin\Debug\net6.0-windows\dashboard.pdb
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.Form1.resources
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.Properties.Resources.resources
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.csproj.GenerateResource.cache
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.AssemblyInfo.cs
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.dll
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\refint\dashboard.dll
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.pdb
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\dashboard.genruntimeconfig.cache
+C:\Users\my pc\source\repos\dashboard 3-2n\obj\Debug\net6.0-windows\ref\dashboard.dll
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\bin\Debug\net6.0-windows\dashboard.exe
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\bin\Debug\net6.0-windows\dashboard.deps.json
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\bin\Debug\net6.0-windows\dashboard.runtimeconfig.json
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\bin\Debug\net6.0-windows\dashboard.dll
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\bin\Debug\net6.0-windows\dashboard.pdb
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.Form1.resources
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.Properties.Resources.resources
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.csproj.GenerateResource.cache
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.AssemblyInfo.cs
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.dll
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\refint\dashboard.dll
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.pdb
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\dashboard.genruntimeconfig.cache
+C:\Users\my pc\source\repos\dashboard 3-2n Tom\obj\Debug\net6.0-windows\ref\dashboard.dll
